@@ -1,5 +1,7 @@
 https://sbcode.net/prometheus/alert-manager-configure/
-
+https://www.robustperception.io/sending-email-with-the-alertmanager-via-gmail
+https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp
+========
 dockprom
 ========
 
